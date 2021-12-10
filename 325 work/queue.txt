@@ -1,0 +1,17 @@
+325 Queue
+
+LISP #12
+Matcher #1
+JS-2
+
+------
+Iterative Deepening Search
+	
+JS-2
+Matcher #2
+------
+Ex 8-5 Henley
+
+Generated List exercises
+
+
